@@ -1,0 +1,12 @@
+C:\Users\admin\source\repos\ExcelCRUDCore\BusinessServiceLayer\bin\Debug\netcoreapp3.1\BusinessServiceLayer.deps.json
+C:\Users\admin\source\repos\ExcelCRUDCore\BusinessServiceLayer\bin\Debug\netcoreapp3.1\BusinessServiceLayer.dll
+C:\Users\admin\source\repos\ExcelCRUDCore\BusinessServiceLayer\obj\Debug\netcoreapp3.1\BusinessServiceLayer.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\ExcelCRUDCore\BusinessServiceLayer\obj\Debug\netcoreapp3.1\BusinessServiceLayer.AssemblyInfo.cs
+C:\Users\admin\source\repos\ExcelCRUDCore\BusinessServiceLayer\bin\Debug\netcoreapp3.1\BusinessServiceLayer.pdb
+C:\Users\admin\source\repos\ExcelCRUDCore\BusinessServiceLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+C:\Users\admin\source\repos\ExcelCRUDCore\BusinessServiceLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+C:\Users\admin\source\repos\ExcelCRUDCore\BusinessServiceLayer\obj\Debug\netcoreapp3.1\BusinessServiceLayer.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\ExcelCRUDCore\BusinessServiceLayer\obj\Debug\netcoreapp3.1\BusinessServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ExcelCRUDCore\BusinessServiceLayer\obj\Debug\netcoreapp3.1\BusinessServiceLayer.csproj.CopyComplete
+C:\Users\admin\source\repos\ExcelCRUDCore\BusinessServiceLayer\obj\Debug\netcoreapp3.1\BusinessServiceLayer.dll
+C:\Users\admin\source\repos\ExcelCRUDCore\BusinessServiceLayer\obj\Debug\netcoreapp3.1\BusinessServiceLayer.pdb
