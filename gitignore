@@ -5,3 +5,9 @@ ExcelCRUDCore/DataLayer/bin/
 ExcelCRUDCore/DataLayer/obj/
 ExcelCRUDCore/BusinessServiceLayer/bin/
 ExcelCRUDCore/BusinessServiceLayer/obj/
+BusinessServiceLayer/bin/
+BusinessServiceLayer/obj/
+DataLayer/bin/
+DataLayer/obj/
+ExcelCRUDCore/bin/
+ExcelCRUDCore/obj/

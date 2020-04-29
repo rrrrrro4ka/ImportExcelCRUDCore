@@ -214,11 +214,6 @@ namespace ExcelCRUDCore.Controllers
                     await userImp.Update(user);
                     return ImportResponse<User>.GetResult(0, "OK", user);
                 }
-                catch (KeyNotFoundException e)
-                {
-                    return ImportResponse<User>.GetResult(-1, "Пользователь не найден" + e.Message, user);
-                    throw;
-                }
                 catch (Exception e)
                 {
                     return ImportResponse<User>.GetResult(-1, e.StackTrace, user);
@@ -240,11 +235,6 @@ namespace ExcelCRUDCore.Controllers
             {
                 await userImp.Remove(id);
                 return ImportResponse<int>.GetResult(0, "OK", id);
-            }
-            catch (KeyNotFoundException e)
-            {
-                return ImportResponse<int>.GetResult(-1, "Пользователь не найден" + e.Message, id);
-                throw;
             }
             catch (Exception e)
             {
